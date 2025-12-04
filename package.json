@@ -1,0 +1,30 @@
+{
+  "name": "quant",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.ts",
+  "type": "module",
+  "scripts": {
+    "check-types": "tsc --noEmit",
+    "eslint": "eslint src --cache",
+    "eslint-fix": "npm run eslint -- --fix",
+    "prettier": "prettier --check src",
+    "prettier-write": "prettier --write src",
+    "test-only": "vitest run --globals --coverage",
+    "test": "npm run test-only && npm run eslint && npm run prettier && npm run check-types",
+    "train": "npx ts-node-esm src/scripts/train.ts"
+  },
+  "keywords": [],
+  "author": "josoriom",
+  "license": "MIT",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^4.22.0",
+    "ml-spectra-processing": "^14.9.1"
+  },
+  "devDependencies": {
+    "eslint": "^9.17.0",
+    "prettier": "^3.4.2",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}

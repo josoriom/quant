@@ -1,0 +1,488 @@
+[
+    {
+        "analyteName": "1-methylhistidine",
+        "rt": 2.61,
+        "mean": 2.61,
+        "mz": 340.1404,
+        "sd": 0.1762275427191189,
+        "is": "Arginine-13C6,15N4 [IS]",
+        "type": "sample"
+    },
+    {
+        "analyteName": "Arginine-13C6,15N4 [IS]",
+        "rt": 2.59,
+        "mean": 2.59,
+        "mz": 355.1757,
+        "sd": 0.16510837603910675,
+        "is": null,
+        "type": "IS"
+    },
+    {
+        "analyteName": "3-methylhistidine",
+        "rt": 2.52,
+        "mean": 2.52,
+        "mz": 340.1404,
+        "sd": 0.18534658928741327,
+        "is": "Histidine-13C6,15N3 [IS]",
+        "type": "sample"
+    },
+    {
+        "analyteName": "Histidine-13C6,15N3 [IS]",
+        "rt": 2.29,
+        "mean": 2.29,
+        "mz": 335.1367,
+        "sd": 0.11966300609001808,
+        "is": null,
+        "type": "IS"
+    },
+    {
+        "analyteName": "Alanine",
+        "rt": 2.39,
+        "mean": 2.39,
+        "mz": 260.103,
+        "sd": 0.05002146916643898,
+        "is": "Alanine-13C3,15N [IS]",
+        "type": "sample"
+    },
+    {
+        "analyteName": "Alanine-13C3,15N [IS]",
+        "rt": 2.39,
+        "mean": 2.39,
+        "mz": 264.1104,
+        "sd": 0.19382539749326533,
+        "is": null,
+        "type": "IS"
+    },
+    {
+        "analyteName": "Arginine",
+        "rt": 2.59,
+        "mean": 2.59,
+        "mz": 345.167,
+        "sd": 0.15052609468014577,
+        "is": "Arginine-13C6,15N4 [IS]",
+        "type": "sample"
+    },
+    {
+        "analyteName": "Asparagine",
+        "rt": 1.75,
+        "mean": 1.75,
+        "mz": 303.1088,
+        "sd": 0.43436010118204127,
+        "is": "Asparagine-13C4,15N2 [IS]",
+        "type": "sample"
+    },
+    {
+        "analyteName": "Asparagine-13C4,15N2 [IS]",
+        "rt": 1.75,
+        "mean": 1.75,
+        "mz": 309.1167,
+        "sd": 0.17201490740526645,
+        "is": null,
+        "type": "IS"
+    },
+    {
+        "analyteName": "Aspartic acid",
+        "rt": 0.81,
+        "mean": 0.81,
+        "mz": 304.0928,
+        "sd": 0.2418518954277251,
+        "is": "Aspartic acid-13C4,15N [IS]",
+        "type": "sample"
+    },
+    {
+        "analyteName": "Aspartic acid-13C4,15N [IS]",
+        "rt": 0.81,
+        "mean": 0.81,
+        "mz": 309.1039,
+        "sd": 0.21354061241599656,
+        "is": null,
+        "type": "IS"
+    },
+    {
+        "analyteName": "Citrulline",
+        "rt": 2.15,
+        "mean": 2.15,
+        "mz": 346.151,
+        "sd": 0.16110177056595357,
+        "is": "Citrulline-13C5 [IS]",
+        "type": "sample"
+    },
+    {
+        "analyteName": "Citrulline-13C5 [IS]",
+        "rt": 2.15,
+        "mean": 2.15,
+        "mz": 351.1686,
+        "sd": 0.2088110144453261,
+        "is": null,
+        "type": "IS"
+    },
+    {
+        "analyteName": "Cysteine-13C3, 15N-AccQTag [IS]",
+        "rt": 2.85,
+        "mean": 2.85,
+        "mz": 296.0821,
+        "sd": 0.1386159551706522,
+        "is": null,
+        "type": "IS"
+    },
+    {
+        "analyteName": "Cysteine",
+        "rt": 2.85,
+        "mean": 2.85,
+        "mz": 292.075,
+        "sd": 0.1386159551706522,
+        "is": null,
+        "type": "IS"
+    },
+    {
+        "analyteName": "Cystine-13C6,15N2 [IS]",
+        "rt": 2.85,
+        "mean": 2.85,
+        "mz": 295.0749,
+        "sd": 0.1,
+        "is": null,
+        "type": "IS"
+    },
+    {
+        "analyteName": "Glutamic acid",
+        "rt": 1.05,
+        "mean": 1.05,
+        "mz": 318.1084,
+        "sd": 0.6162467393362977,
+        "is": "Glutamic acid-13C5,15N [IS]",
+        "type": "sample"
+    },
+    {
+        "analyteName": "Glutamic acid-13C5,15N [IS]",
+        "rt": 1.05,
+        "mean": 1.05,
+        "mz": 324.1223,
+        "sd": 0.22397488461391107,
+        "is": null,
+        "type": "IS"
+    },
+    {
+        "analyteName": "Glutamine",
+        "rt": 1.91,
+        "mean": 1.91,
+        "mz": 317.1244,
+        "sd": 0.284765629441897,
+        "is": "Glutamine-13C5,15N2 [IS]",
+        "type": "sample"
+    },
+    {
+        "analyteName": "Glutamine-13C5,15N2 [IS]",
+        "rt": 1.91,
+        "mean": 1.91,
+        "mz": 324.1361,
+        "sd": 0.2093539037086292,
+        "is": null,
+        "type": "IS"
+    },
+    {
+        "analyteName": "Glycine",
+        "rt": 1.95,
+        "mean": 1.95,
+        "mz": 246.0873,
+        "sd": 0.13805834281797874,
+        "is": "Glycine-13C2,15N [IS]",
+        "type": "sample"
+    },
+    {
+        "analyteName": "Glycine-13C2,15N [IS]",
+        "rt": 1.95,
+        "mean": 1.95,
+        "mz": 249.0915,
+        "sd": 0.15795867197967833,
+        "is": null,
+        "type": "IS"
+    },
+    {
+        "analyteName": "Histidine",
+        "rt": 2.3,
+        "mean": 2.3,
+        "mz": 326.1248,
+        "sd": 0.2,
+        "is": "Histidine-13C6,15N3 [IS]",
+        "type": "sample"
+    },
+    {
+        "analyteName": "Isoleucine",
+        "rt": 4.09,
+        "mean": 4.09,
+        "mz": 302.1499,
+        "sd": 0.0837630903286806,
+        "is": "Isoleucine-13C6,15N [IS]",
+        "type": "sample"
+    },
+    {
+        "analyteName": "Isoleucine-13C6,15N [IS]",
+        "rt": 4.07,
+        "mean": 4.07,
+        "mz": 309.1673,
+        "sd": 0.1285707429935825,
+        "is": null,
+        "type": "IS"
+    },
+    {
+        "analyteName": "Leucine",
+        "rt": 4.15,
+        "mean": 4.15,
+        "mz": 302.1499,
+        "sd": 0.0930714579886872,
+        "is": "Leucine-13C6,15N [IS]",
+        "type": "sample"
+    },
+    {
+        "analyteName": "Leucine-13C6,15N [IS]",
+        "rt": 4.15,
+        "mean": 4.15,
+        "mz": 309.1675,
+        "sd": 0.13963495601628526,
+        "is": null,
+        "type": "IS"
+    },
+    {
+        "analyteName": "Lysine",
+        "rt": 4.22,
+        "mean": 4.22,
+        "mz": 244.1081,
+        "sd": 0.1,
+        "is": "Lysine-13C6,15N2 [IS]",
+        "type": "sample"
+    },
+    {
+        "analyteName": "Lysine-13C6,15N2 [IS]",
+        "rt": 4.22,
+        "mean": 4.22,
+        "mz": 248.1151,
+        "sd": 0.1,
+        "is": null,
+        "type": "IS"
+    },
+    {
+        "analyteName": "Methionine",
+        "rt": 3.55,
+        "mean": 3.55,
+        "mz": 320.1063,
+        "sd": 0.18125088900840458,
+        "is": "Methionine-13C5,15N [IS]",
+        "type": "sample"
+    },
+    {
+        "analyteName": "Methionine-13C5,15N [IS]",
+        "rt": 3.55,
+        "mean": 3.55,
+        "mz": 326.1208,
+        "sd": 0.15369849578650546,
+        "is": null,
+        "type": "IS"
+    },
+    {
+        "analyteName": "Ornithine",
+        "rt": 4.02,
+        "mean": 4.02,
+        "mz": 237.1008,
+        "sd": 0.1,
+        "is": "Ornithine-13C5 [IS]",
+        "type": "sample"
+    },
+    {
+        "analyteName": "Ornithine-13C5 [IS]",
+        "rt": 4.02,
+        "mean": 4.02,
+        "mz": 239.6083,
+        "sd": 0.1,
+        "is": null,
+        "type": "IS"
+    },
+    {
+        "analyteName": "Phenylalanine",
+        "rt": 4.36,
+        "mean": 4.36,
+        "mz": 336.1343,
+        "sd": 0.19796393285889552,
+        "is": "Phenylalanine-13C9,15N [IS]",
+        "type": "sample"
+    },
+    {
+        "analyteName": "Phenylalanine-13C9,15N [IS]",
+        "rt": 4.36,
+        "mean": 4.36,
+        "mz": 346.162,
+        "sd": 0.11141830309661122,
+        "is": null,
+        "type": "IS"
+    },
+    {
+        "analyteName": "Proline",
+        "rt": 2.64,
+        "mean": 2.64,
+        "mz": 286.1186,
+        "sd": 0.23349997683196885,
+        "is": "Proline-13C5,15N [IS]",
+        "type": "sample"
+    },
+    {
+        "analyteName": "Proline-13C5,15N [IS]",
+        "rt": 2.64,
+        "mean": 2.64,
+        "mz": 292.1328,
+        "sd": 0.13902286467181776,
+        "is": null,
+        "type": "IS"
+    },
+    {
+        "analyteName": "Sarcosine",
+        "rt": 2.2,
+        "mean": 2.2,
+        "mz": 260.103,
+        "sd": 0.0254891679372409,
+        "is": "Sarcosine 13C3,15N [IS]",
+        "type": "sample"
+    },
+    {
+        "analyteName": "Sarcosine 13C3,15N [IS]",
+        "rt": 2.19,
+        "mean": 2.19,
+        "mz": 264.1105,
+        "sd": 0.18590571762893265,
+        "is": null,
+        "type": "IS"
+    },
+    {
+        "analyteName": "Serine",
+        "rt": 1.8,
+        "mean": 1.8,
+        "mz": 276.0979,
+        "sd": 0.12516668348603663,
+        "is": "Serine-13C3,15N [IS]",
+        "type": "sample"
+    },
+    {
+        "analyteName": "Serine-13C3,15N [IS]",
+        "rt": 1.8,
+        "mean": 1.8,
+        "mz": 280.1054,
+        "sd": 0.23770203363564824,
+        "is": null,
+        "type": "IS"
+    },
+    {
+        "analyteName": "Taurine",
+        "rt": 2.29,
+        "mean": 2.29,
+        "mz": 296.07,
+        "sd": 0.15311890933385838,
+        "is": "Histidine-13C6,15N3 [IS]",
+        "type": "sample"
+    },
+    {
+        "analyteName": "Threonine",
+        "rt": 2.28,
+        "mean": 2.28,
+        "mz": 290.1135,
+        "sd": 0.18170194178691976,
+        "is": "Threonine-13C4,15N [IS]",
+        "type": "sample"
+    },
+    {
+        "analyteName": "Threonine-13C4,15N [IS]",
+        "rt": 2.28,
+        "mean": 2.28,
+        "mz": 295.1242,
+        "sd": 0.22713008149454567,
+        "is": null,
+        "type": "IS"
+    },
+    {
+        "analyteName": "Tryptophan-13C11,15N2 [IS]",
+        "rt": 4.44,
+        "mean": 4.44,
+        "mz": 388.1761,
+        "sd": 0.2,
+        "is": null,
+        "type": "IS"
+    },
+    {
+        "analyteName": "Tyrosine",
+        "rt": 3.18,
+        "mean": 3.18,
+        "mz": 352.1292,
+        "sd": 0.07479191439204584,
+        "is": "Tyrosine-13C9,15N [IS]",
+        "type": "sample"
+    },
+    {
+        "analyteName": "Tyrosine-13C9,15N [IS]",
+        "rt": 3.18,
+        "mean": 3.18,
+        "mz": 362.1574,
+        "sd": 0.09813348856677788,
+        "is": null,
+        "type": "IS"
+    },
+    {
+        "analyteName": "Valine",
+        "rt": 3.43,
+        "mean": 3.43,
+        "mz": 288.1343,
+        "sd": 0.20599053629400704,
+        "is": "Valine-13C5,15N [IS]",
+        "type": "sample"
+    },
+    {
+        "analyteName": "Valine-13C5,15N [IS]",
+        "rt": 3.43,
+        "mean": 3.43,
+        "mz": 294.1488,
+        "sd": 0.1090223542563326,
+        "is": null,
+        "type": "IS"
+    },
+    {
+        "analyteName": "alpha-aminobutyric acid",
+        "rt": 2.9,
+        "mean": 2.9,
+        "mz": 274.1186,
+        "sd": 0.12791256019712552,
+        "is": "Proline-13C5,15N [IS]",
+        "type": "sample"
+    },
+    {
+        "analyteName": "beta-alanine",
+        "rt": 2.1,
+        "mean": 2.1,
+        "mz": 260.103,
+        "sd": 0.048210257619495066,
+        "is": "beta-alanine-13C3,15N [IS]",
+        "type": "sample"
+    },
+    {
+        "analyteName": "beta-alanine-13C3,15N [IS]",
+        "rt": 2.09,
+        "mean": 2.09,
+        "mz": 264.1106,
+        "sd": 0.23676551685981076,
+        "is": null,
+        "type": "IS"
+    },
+    {
+        "analyteName": "beta-aminoisobutyric acid",
+        "rt": 2.56,
+        "mean": 2.56,
+        "mz": 274.1186,
+        "sd": 0.1552264514856834,
+        "is": "Proline-13C5,15N [IS]",
+        "type": "sample"
+    },
+    {
+        "analyteName": "gamma-aminobutyric acid",
+        "rt": 2.47,
+        "mean": 2.47,
+        "mz": 274.1186,
+        "sd": 0.16616855348061552,
+        "is": "Proline-13C5,15N [IS]",
+        "type": "sample"
+    }
+]

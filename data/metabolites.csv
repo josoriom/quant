@@ -1,0 +1,57 @@
+Molecule List Name,Molecule Name,Precursor m/z,Precursor Charge,Explicit Retention Time,Explicit Retention Time Window,note
+Amino Acid,1-methylhistidine,340.1404,1,2.61,0.1762275427191189,"Arginine-13C6,15N4 [IS]"
+Amino Acid,"Arginine-13C6,15N4 [IS]",355.1757,1,2.59,0.16510837603910675,
+Amino Acid,3-methylhistidine,340.1404,1,2.52,0.18534658928741327,"Histidine-13C6,15N3 [IS]"
+Amino Acid,Alanine,260.103,1,2.39,0.2,"Alanine-13C3,15N [IS]"
+Amino Acid,"Alanine-13C3,15N [IS]",264.1104,1,2.39,0.2,
+Amino Acid,Arginine,345.167,1,2.59,0.15052609468014577,"Arginine-13C6,15N4 [IS]"
+Amino Acid,Asparagine,303.1088,1,1.75,0.43436010118204127,"Asparagine-13C4,15N2 [IS]"
+Amino Acid,"Asparagine-13C4,15N2 [IS]",309.1167,1,1.75,0.17201490740526645,
+Amino Acid,Aspartic acid,304.0928,1,0.81,0.3,"Aspartic acid-13C4,15N [IS]"
+Amino Acid,"Aspartic acid-13C4,15N [IS]",309.1039,1,0.81,0.3,
+Amino Acid,Citrulline,346.151,1,2.15,0.16110177056595357,Citrulline-13C5 [IS]
+Amino Acid,Citrulline-13C5 [IS],351.1686,1,2.15,0.2088110144453261,
+Amino Acid,Cysteine-AccQTag,292.075,1,2.85,0.1,"Cysteine-13C3, 15N-AccQTag [IS]"
+Amino Acid,"Cysteine-13C3, 15N-AccQTag [IS]",296.0821,1,2.85,0.1386159551706522,
+Amino Acid,Cystine,291.0672,1,2.85,0.1,"Cystine-13C6,15N2 [IS]"
+Amino Acid,"Cystine-13C6,15N2 [IS]",295.0749,1,2.85,0.1,
+Amino Acid,Glutamic acid,318.1084,1,1.02,0.6,"Glutamic acid-13C5,15N [IS]"
+Amino Acid,"Glutamic acid-13C5,15N [IS]",324.1223,1,1.02,0.3,
+Amino Acid,Glutamine,317.1244,1,1.915,0.3,"Glutamine-13C5,15N2 [IS]"
+Amino Acid,"Glutamine-13C5,15N2 [IS]",324.1353,1,1.915,0.2,
+Amino Acid,Glycine,246.0873,1,1.95,0.2,"Glycine-13C2,15N [IS]"
+Amino Acid,"Glycine-13C2,15N [IS]",249.0915,1,1.95,0.2,
+Amino Acid,Histidine,326.1248,1,2.3,0.1,"Histidine-13C6,15N3 [IS]"
+Amino Acid,"Histidine-13C6,15N3 [IS]",335.1367,1,2.3,0.2,
+Amino Acid,Homocysteine AccQTag,306.0907,1,3.26,0.3,"Cysteine-13C3, 15N-AccQTag [IS]"
+Amino Acid,Isoleucine,302.1499,1,4.08,0.2,"Isoleucine-13C6,15N [IS]"
+Amino Acid,"Isoleucine-13C6,15N [IS]",309.1673,1,4.08,0.2,
+Amino Acid,Leucine,302.1499,1,4.165,0.2,"Leucine-13C6,15N [IS]"
+Amino Acid,"Leucine-13C6,15N [IS]",309.1675,1,4.165,0.2,
+Amino Acid,Lysine,244.1081,1,4.23,0.2,"Lysine-13C6,15N2 [IS]"
+Amino Acid,"Lysine-13C6,15N2 [IS]",248.1151,1,4.23,0.2,
+Amino Acid,Methionine,320.1063,1,3.55,0.2,"Methionine-13C5,15N [IS]"
+Amino Acid,"Methionine-13C5,15N [IS]",326.1208,1,3.55,0.2,
+Amino Acid,Ornithine,237.1008,1,4.03,0.1,Ornithine-13C5 [IS]
+Amino Acid,Ornithine-13C5 [IS],239.6083,1,4.03,0.1,
+Amino Acid,Phenylalanine,336.1343,1,4.36,0.3,"Phenylalanine-13C9,15N [IS]"
+Amino Acid,"Phenylalanine-13C9,15N [IS]",346.162,1,4.36,0.3,
+Amino Acid,Proline,286.1186,1,2.64,0.2,"Proline-13C5,15N [IS]"
+Amino Acid,"Proline-13C5,15N [IS]",292.1328,1,2.64,0.2,
+Amino Acid,Sarcosine,260.103,1,2.19,0.1,"Sarcosine 13C3,15N [IS]"
+Amino Acid,"Sarcosine 13C3,15N [IS]",264.1105,1,2.19,0.1,
+Amino Acid,Serine,276.0979,1,1.8,0.2,"Serine-13C3,15N [IS]"
+Amino Acid,"Serine-13C3,15N [IS]",280.1054,1,1.8,0.3,
+Amino Acid,Taurine,296.07,1,2.28,0.2,"Histidine-13C6,15N3 [IS]"
+Amino Acid,Threonine,290.1135,1,2.28,0.2,"Threonine-13C4,15N [IS]"
+Amino Acid,"Threonine-13C4,15N [IS]",295.1242,1,2.28,0.2,
+Amino Acid,"Tryptophan-13C11,15N2 [IS]",388.1761,1,4.44,0.2,
+Amino Acid,Tyrosine,352.1292,1,3.18,0.2,"Tyrosine-13C9,15N [IS]"
+Amino Acid,"Tyrosine-13C9,15N [IS]",362.1574,1,3.18,0.2,
+Amino Acid,Valine,288.1343,1,3.44,0.3,"Valine-13C5,15N [IS]"
+Amino Acid,"Valine-13C5,15N [IS]",294.1488,1,3.44,0.3,
+Amino Acid,alpha-aminobutyric acid,274.1186,1,2.9,0.1,"Proline-13C5,15N [IS]"
+Amino Acid,beta-alanine,260.103,1,2.09,0.08,"beta-alanine-13C3,15N [IS]"
+Amino Acid,"beta-alanine-13C3,15N [IS]",264.1106,1,2.09,0.08,
+Amino Acid,beta-aminoisobutyric acid,274.1186,1,2.56,0.1,"Proline-13C5,15N [IS]"
+Amino Acid,gamma-aminobutyric acid,274.1186,1,2.48,0.07,"Proline-13C5,15N [IS]"

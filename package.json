@@ -19,10 +19,13 @@
   "license": "MIT",
   "dependencies": {
     "@tensorflow/tfjs-node": "^4.22.0",
-    "ml-spectra-processing": "^14.9.1"
+    "dotenv": "^17.2.3",
+    "ml-spectra-processing": "^14.9.1",
+    "msut": "file:lib/msut-0.1.0.tgz"
   },
   "devDependencies": {
     "eslint": "^9.17.0",
+    "filelist-utils": "^1.11.3",
     "prettier": "^3.4.2",
     "tsx": "^4.19.2",
     "typescript": "^5.7.2"

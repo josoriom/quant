@@ -1,0 +1,9 @@
+Molecule List Name,Molecule Name,Precursor m/z,Precursor Charge,Explicit Retention Time,Explicit Retention Time Window,note
+Amino Acid,1-methylhistidine,340.1404,1,2.61,0.06,"Arginine-13C6,15N4 [IS]"
+Amino Acid,3-methylhistidine,340.1404,1,2.52,0.06,"Histidine-13C6,15N3 [IS]"
+Amino Acid,beta-alanine,260.103,1,2.09,0.08,"beta-alanine-13C3,15N [IS]"
+Amino Acid,"beta-alanine-13C3,15N [IS]",264.1106,1,2.09,0.08,
+Amino Acid,Sarcosine,260.103,1,2.19,0.1,"Sarcosine 13C3,15N [IS]"
+Amino Acid,"Sarcosine 13C3,15N [IS]",264.1105,1,2.19,0.1,
+Amino Acid,beta-aminoisobutyric acid,274.1186,1,2.56,0.1,"Proline-13C5,15N [IS]"
+Amino Acid,gamma-aminobutyric acid,274.1186,1,2.48,0.05,"Proline-13C5,15N [IS]"

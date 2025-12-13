@@ -5,7 +5,7 @@ import { xMedian, xMedianAbsoluteDeviation } from 'ml-spectra-processing';
 import { Peak } from './types/peak';
 import { peaksToTSV } from './utilities/peaksToTSV';
 
-const path = '/Users/josoriom/github/josoriom/quant/data/output';
+const path = '/Users/josoriom/github/josoriom/quant/data/output-mzml';
 const url = new URL(path, import.meta.url);
 
 const list: Analyte[] = JSON.parse(
@@ -58,7 +58,7 @@ const { clean, statsById } = purgeOutliersByRtIrt(result, {
 
 console.log(statsById);
 
-writeFileSync(new URL('./auto.tsv', import.meta.url), peaksToTSV(result));
+writeFileSync(new URL('./mzml.tsv', import.meta.url), peaksToTSV(result));
 
 type NonNullableNumber = number & {};
 

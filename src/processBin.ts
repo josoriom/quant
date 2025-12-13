@@ -22,10 +22,7 @@ const metabolitesUrl = new URL(
   `../data/metabolites${low ? '-low' : ''}.csv`,
   import.meta.url,
 );
-const outputUrl = new URL(
-  `../data/output${low ? '-low' : '-high'}/`,
-  import.meta.url,
-);
+const outputUrl = new URL(`../data/output-mzml/`, import.meta.url);
 
 const collection = (await fileCollectionFromPath(samplesUrl.pathname)).files;
 
@@ -33,40 +30,44 @@ const metabolites: Metabolite[] = parseCsv(
   readFileSync(metabolitesUrl, { encoding: 'utf8' }),
 );
 let counter = 0;
-console.time('Whole run:');
+
 const lowConfig = {
   autoNoise: true,
   widthThreshold: 3,
   autoBaseline: true,
   intensityThreshold: 200,
 };
+
 const highConfig = {
   autoNoise: true,
   widthThreshold: 8,
   autoBaseline: true,
   intensityThreshold: 1000,
 };
+console.time('Whole run:');
 for (const item of collection) {
   const name = item.name;
   const buffer = await item.arrayBuffer();
   console.time(`${counter}-${name}`);
   const file = parseMzML(buffer);
-  // const peaks = getPeaksFromEic(
-  //   file,
-  //   metabolites,
-  //   0.5,
-  //   5,
-  //   low ? lowConfig : highConfig,
-  //   2,
-  // );
+
+  const peaks = getPeaksFromEic(
+    file,
+    metabolites,
+    0.5,
+    5,
+    low ? lowConfig : highConfig,
+    1,
+  );
+
+  writeFileSync(
+    new URL(
+      `${name.replaceAll(' ', '_20_').replace('.mzML', '.json')}`,
+      outputUrl,
+    ),
+    JSON.stringify(peaks, null, 2),
+  );
   console.timeEnd(`${counter}-${name}`);
-  // writeFileSync(
-  //   new URL(
-  //     `${name.replaceAll(' ', '_20_').replace('.mzML', '.json')}`,
-  //     outputUrl,
-  //   ),
-  //   JSON.stringify(peaks, null, 2),
-  // );
   counter++;
 }
 console.timeEnd('Whole run:');
